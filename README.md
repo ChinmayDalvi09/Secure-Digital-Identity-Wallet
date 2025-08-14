@@ -28,7 +28,10 @@ This vision aims to:
 
 ## 📄 Contract Details
 **Deployed Contract Address:**  
-`0xYOUR_CONTRACT_ADDRESS`
+`0x3312b6767d8d71e942e69ff20c414f3c0385ce279d013f3cb5176de20cac7790`
+
+<img width="1888" height="944" alt="image" src="https://github.com/user-attachments/assets/af854c01-2256-4993-ab99-99e658a796a3" />
+
 
 **Functions:**
 1. `register_identity(user: &signer, name: string::String, dob: string::String)`  
