@@ -1,0 +1,16 @@
+[package]
+name = "Secure-Digital-Identity-Wallet"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0x58941e731db24c22ffc519d9b40fd0ca69b619ea579a0d2bbb3ee2df8490c12d'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
